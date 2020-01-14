@@ -4,7 +4,7 @@
         <span itemprop="copyrightYear">${(options.birthday)?number_to_date?string("yyyy")} - ${.now?string('yyyy')}</span>
         <span class="author" itemprop="copyrightHolder"><a href="${context!}">${user.username!}</a> | </span>
 
-      <span>Crafted with ❤️ by <a href="https://github.com/Fastbyte01/KeepIt" target="_blank" rel="external nofollow noopener noreffer">KeepIt</a> & <a href="https://halo.run" target="_blank" rel="external nofollow noopener noreffer">Halo</a></span>
+      <span>Crafted with ❤️ by yuanmomoya |<img src= "/static/images/beian.png" width="12" height="12"></img><a href="http://www.beian.miit.gov.cn/">冀ICP备20000808号</a></span>
     </div>
 </footer>
 
